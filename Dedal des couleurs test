@@ -1,36 +1,61 @@
 
- <html>
+<!DOCTYPE html><link rel="stylesheet" href="styles.css">
+ <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>COLLECTION PERMANENTE</title> <style> body { font-family: Arial, sans-serif; } .container { display: flex; flex-wrap: wrap; justify-content: center; } .artwork { margin: 20px; text-align: center; } .artwork img { max-width: 100%; height: auto; } </style> </head> <body> <h1>COLLECTION PERMANENTE</h1> <div class="container"> <div class="artwork"> <img src="PAUL_DECHEWSKY_VASE.jpg" alt="Paul Dechewsky - Vase"> <h2>Paul Dechewsky</h2> <h3>Vase</h3> </div> <div class="artwork"> <img src="PAUL_DECHEWSKY_PEINTURES_NOS_COLLECTIONS_ARTISTES_RECHERCHE_NYMPHEAS.jpg" alt="Paul Dechewsky - Nympheas"> <h2>Paul Dechewsky</h2> <h3>Nympheas</h3> </div> <div class="artwork"> <img src="PAUL_DECHEWSKY_PEINTURES_NOS_COLLECTIONS_ARTISTES_RECHERCHE_WATER.jpg" alt="Paul Dechewsky - Water"> <h2>Paul Dechewsky</h2> <h3>Water</h3> </div> <div class="artwork"> <img src="PAUL_DECHEWSKY_PEINTURES_NOS_COLLECTIONS_ARTISTES_RECHERCHE_BALLERINA.jpg" alt="Paul Dechewsky - Ballerina"> <h2>Paul Dechewsky</h2> <h3>Ballerina</h3> </div> </div> </body> </html><html lang="fr"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Dedal des Couleurs</title> </head> <body> <h1>Dedal des Couleurs</h1> <h2>Galerie d'art</h2> <h2>Dedal des Colles</h2> <h2>Ola Café Bistro</h2> <p>Contact : <a href="mailto:info@dedaldescouleurs.com">info@dedaldescouleurs.com</a></p> <p>Adresse : 10 rue de la République 75000 Paris</p> </body> </html>
+Dans ce code, nous avons utilisé le langage HTML pour créer la structure de la page. Nous avons ajouté un titre "Dedal des Couleurs" en utilisant la balise <h1>. Ensuite, nous avons ajouté des sous-titres pour chaque section de la page en utilisant les balises <h2>
+	<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Paul Dechewssky</title> </head> <body> <h1>Paul Dechewssky</h1> <p>Paul Dechenet, an artist who specialized in Impressionism, became famous in the early 20th century for his affiliation with the Impressionist movement. Despite his success, his life was marked by tragedies. Under the influence of Claude Monet, he experimented with Impressionism, characterized by vivid colors and rapid brushstrokes. His landscapes from Giverny gained fame, but the tragic losses, including the death of his wife and two daughters, cast a pall of melancholy over his life.</p> <p>Nonetheless, he continued to paint, expressing the beauty and emotional complexity that has made his work famous. The perseverance and power of his art in the face of tragedy are a testament to the resilience and transformative potential of art.</p><h2>Contact</h2>
+<p>If you would like to get in touch with Paul Dechewssky or for more information, please visit the official website:</p>
+<p><a href="https://www.example.com">Paul Dechewssky Official Website</a></p>
 <head>
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #ffffff;
-        }
-
-        .collectron {
-            font-family: 'Arial', sans-serif;
-            font-size: 30px;
-            color: #ff6b6b;
-        }
-
-        .collectron-line {
-            width: 2px;
-            height: 100px;
-            background-color: #ff6b6b;
-            margin: 0 5px;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paul Dechewssky</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dédal et la filière de réduction de charges de production électrique</title>
 </head>
 <body>
-    <div class="container">
-        <div class="collectron">
-            <div class="collectron-line"></div>
-            <div class="collectron-line"></div>
-            <div class="collectron-line"></div>
-        </div>
-    </div>
+    <h1>Dédal et la filière de réduction de charges de production électrique</h1>
+
+    <h2>Contact</h2>
+
+    <p>
+        NOM : <br>
+        EMAIL: <br>
+        CONTACT: <br>
+        COMMENTAIRE: <br>
+        Téléphone : 01.63.45.85.56 <br>
+        Fax: 01.63.45.78.52 <br>
+        Email: dedal@gmail.com <br>
+        Adresse: 10 rue de la république 7500 PARIS.
+    </p>
+
+    <h2>Événements à venir</h2>
+
+    <ul>
+        <li>EVES SOLL REDHENCHE</li>
+    </ul>
+
+    <h2>Images</h2>
+
+    <p>iStock</p>
+    <p>Credit: Tatiana llina</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dédal et la filière de réduction de charges de production électrique</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    ...
 </body>
 </html>
