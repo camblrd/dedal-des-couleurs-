@@ -1,1 +1,36 @@
 test
+ html>
+<head>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ffffff;
+        }
+
+        .collectron {
+            font-family: 'Arial', sans-serif;
+            font-size: 30px;
+            color: #ff6b6b;
+        }
+
+        .collectron-line {
+            width: 2px;
+            height: 100px;
+            background-color: #ff6b6b;
+            margin: 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="collectron">
+            <div class="collectron-line"></div>
+            <div class="collectron-line"></div>
+            <div class="collectron-line"></div>
+        </div>
+    </div>
+</body>
+</html>
